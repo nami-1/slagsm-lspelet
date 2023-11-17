@@ -1,0 +1,15 @@
+c:\Users\namith.muttharamar1\Documents\programmering 2\slagsmålspelet\Slagsmålspelet\bin\Debug\net6.0\Slagsmålspelet.exe
+c:\Users\namith.muttharamar1\Documents\programmering 2\slagsmålspelet\Slagsmålspelet\bin\Debug\net6.0\Slagsmålspelet.deps.json
+c:\Users\namith.muttharamar1\Documents\programmering 2\slagsmålspelet\Slagsmålspelet\bin\Debug\net6.0\Slagsmålspelet.runtimeconfig.json
+c:\Users\namith.muttharamar1\Documents\programmering 2\slagsmålspelet\Slagsmålspelet\bin\Debug\net6.0\Slagsmålspelet.dll
+c:\Users\namith.muttharamar1\Documents\programmering 2\slagsmålspelet\Slagsmålspelet\bin\Debug\net6.0\Slagsmålspelet.pdb
+c:\Users\namith.muttharamar1\Documents\programmering 2\slagsmålspelet\Slagsmålspelet\obj\Debug\net6.0\Slagsmålspelet.csproj.AssemblyReference.cache
+c:\Users\namith.muttharamar1\Documents\programmering 2\slagsmålspelet\Slagsmålspelet\obj\Debug\net6.0\Slagsmålspelet.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\namith.muttharamar1\Documents\programmering 2\slagsmålspelet\Slagsmålspelet\obj\Debug\net6.0\Slagsmålspelet.AssemblyInfoInputs.cache
+c:\Users\namith.muttharamar1\Documents\programmering 2\slagsmålspelet\Slagsmålspelet\obj\Debug\net6.0\Slagsmålspelet.AssemblyInfo.cs
+c:\Users\namith.muttharamar1\Documents\programmering 2\slagsmålspelet\Slagsmålspelet\obj\Debug\net6.0\Slagsmålspelet.csproj.CoreCompileInputs.cache
+c:\Users\namith.muttharamar1\Documents\programmering 2\slagsmålspelet\Slagsmålspelet\obj\Debug\net6.0\Slagsmålspelet.dll
+c:\Users\namith.muttharamar1\Documents\programmering 2\slagsmålspelet\Slagsmålspelet\obj\Debug\net6.0\refint\Slagsmålspelet.dll
+c:\Users\namith.muttharamar1\Documents\programmering 2\slagsmålspelet\Slagsmålspelet\obj\Debug\net6.0\Slagsmålspelet.pdb
+c:\Users\namith.muttharamar1\Documents\programmering 2\slagsmålspelet\Slagsmålspelet\obj\Debug\net6.0\Slagsmålspelet.genruntimeconfig.cache
+c:\Users\namith.muttharamar1\Documents\programmering 2\slagsmålspelet\Slagsmålspelet\obj\Debug\net6.0\ref\Slagsmålspelet.dll
